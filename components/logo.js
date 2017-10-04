@@ -38,7 +38,7 @@ function Logo({ small }) {
       </Title>
       {!small &&
         <Subtitle>
-          Tu música sin límites
+          Tu música sin límites, by Platzi
         </Subtitle>
       }
     </div>
